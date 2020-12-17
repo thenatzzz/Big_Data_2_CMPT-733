@@ -10,4 +10,4 @@ cw5_Anomaly_Detection/logs-features.csv
 cw5_Anomaly_Detection/logs-features-sample.csv
 cw8_Deeplearning/hymenoptera_data.zip
 cw10_Feature_Eng/ch6_cell28_dev_feat1_filtered.tsv
-cw11_AWS
+cw11_AWS/*
