@@ -1,6 +1,5 @@
-# Big Data II CMPT-733
-### Big Data Programming I, Simon Fraser University
-#### Tools: Hadoop MapReduce, Spark RDD, Spark DataFrames + SQL , Cassandra
+# Big Data II
+### CMPT-733, Simon Fraser University
 
 #### List of courseworks
 1. BeautifulSoup, lxml, Pandas
